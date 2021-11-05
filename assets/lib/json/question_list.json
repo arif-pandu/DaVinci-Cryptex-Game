@@ -1,0 +1,460 @@
+[{
+        "question": "Siapa nama saya?",
+        "password": "pandu",
+        "answer1": 15,
+        "answer2": 0,
+        "answer3": 13,
+        "answer4": 3,
+        "answer5": 20
+    },
+    {
+        "question": "Buah berwarna kuning rasanya manis nan masam",
+        "password": "nanas",
+        "answer1": 13,
+        "answer2": 0,
+        "answer3": 13,
+        "answer4": 0,
+        "answer5": 18
+    },
+    {
+        "question": "Daerah Sultan Hamengkubuwono memimpin",
+        "password": "jogja",
+        "answer1": 9,
+        "answer2": 14,
+        "answer3": 6,
+        "answer4": 9,
+        "answer5": 0
+    },
+    {
+        "question": "Ikan berkembang biak dengan",
+        "password": "telur",
+        "answer1": 19,
+        "answer2": 4,
+        "answer3": 11,
+        "answer4": 20,
+        "answer5": 17
+    },
+    {
+        "question": "Besok, Lusa, Tulat, ...",
+        "password": "tubin",
+        "answer1": 19,
+        "answer2": 20,
+        "answer3": 1,
+        "answer4": 8,
+        "answer5": 13
+    },
+    {
+        "question": "Nama default player di Minecraft",
+        "password": "steve",
+        "answer1": 18,
+        "answer2": 19,
+        "answer3": 4,
+        "answer4": 21,
+        "answer5": 4
+    },
+    {
+        "question": "Layanan email milik Google",
+        "password": "gmail",
+        "answer1": 6,
+        "answer2": 12,
+        "answer3": 0,
+        "answer4": 8,
+        "answer5": 11
+    },
+    {
+        "question": "Planet ke-2 di tata surya kita",
+        "password": "venus",
+        "answer1": 21,
+        "answer2": 4,
+        "answer3": 13,
+        "answer4": 20,
+        "answer5": 18
+    },
+    {
+        "question": "Negara dengan julukan tirai bambu",
+        "password": "china",
+        "answer1": 2,
+        "answer2": 7,
+        "answer3": 8,
+        "answer4": 13,
+        "answer5": 0
+    },
+    {
+        "question": "Napas/Nafas",
+        "password": "napas",
+        "answer1": 13,
+        "answer2": 0,
+        "answer3": 15,
+        "answer4": 0,
+        "answer5": 18
+    },
+    {
+        "question": "Andal/Handal",
+        "password": "andal",
+        "answer1": 0,
+        "answer2": 13,
+        "answer3": 3,
+        "answer4": 0,
+        "answer5": 11
+    },
+    {
+        "question": "Atlet/Atlit",
+        "password": "atlet",
+        "answer1": 0,
+        "answer2": 19,
+        "answer3": 11,
+        "answer4": 4,
+        "answer5": 19
+    },
+    {
+        "question": "Frase/Frasa",
+        "password": "frasa",
+        "answer1": 5,
+        "answer2": 17,
+        "answer3": 0,
+        "answer4": 18,
+        "answer5": 0
+    },
+    {
+        "question": "Gubug/Gubuk",
+        "password": "gubuk",
+        "answer1": 6,
+        "answer2": 20,
+        "answer3": 1,
+        "answer4": 20,
+        "answer5": 10
+    },
+    {
+        "question": "Koboy/Koboi",
+        "password": "koboi",
+        "answer1": 10,
+        "answer2": 14,
+        "answer3": 1,
+        "answer4": 14,
+        "answer5": 8
+    },
+    {
+        "question": "Pikir/Fikir",
+        "password": "pikir",
+        "answer1": 15,
+        "answer2": 8,
+        "answer3": 10,
+        "answer4": 8,
+        "answer5": 17
+    },
+    {
+        "question": "Tzuyu, Jihyo, Nayeon, dkk adalah anggota",
+        "password": "twice",
+        "answer1": 19,
+        "answer2": 22,
+        "answer3": 8,
+        "answer4": 2,
+        "answer5": 4
+    },
+    {
+        "question": "Salah satu brand prosesor yang mendunia",
+        "password": "intel",
+        "answer1": 8,
+        "answer2": 13,
+        "answer3": 19,
+        "answer4": 4,
+        "answer5": 11
+    },
+    {
+        "question": "Pasangan Vision dalam universe Avengers",
+        "password": "wanda",
+        "answer1": 22,
+        "answer2": 0,
+        "answer3": 13,
+        "answer4": 3,
+        "answer5": 0
+    },
+    {
+        "question": "Reiner Braun seorang titan shifter mampu bertransformasi menjadi titan ...",
+        "password": "zirah",
+        "answer1": 25,
+        "answer2": 8,
+        "answer3": 17,
+        "answer4": 0,
+        "answer5": 7
+    },
+    {
+        "question": "Virus dari Wuhan",
+        "password": "covid",
+        "answer1": 2,
+        "answer2": 14,
+        "answer3": 21,
+        "answer4": 8,
+        "answer5": 3
+    },
+    {
+        "question": "Gengar adalah pokemon dengan tipe?",
+        "password": "hantu",
+        "answer1": 7,
+        "answer2": 0,
+        "answer3": 13,
+        "answer4": 19,
+        "answer5": 20
+    },
+    {
+        "question": "Salah satu unicorn di Indonesia",
+        "password": "gojek",
+        "answer1": 6,
+        "answer2": 14,
+        "answer3": 9,
+        "answer4": 4,
+        "answer5": 10
+    },
+    {
+        "question": "Pemenang Ballon d'Or tahun 2019",
+        "password": "messi",
+        "answer1": 12,
+        "answer2": 4,
+        "answer3": 18,
+        "answer4": 18,
+        "answer5": 8
+    },
+    {
+        "question": "Personel Blackpink asal Korea Selatan",
+        "password": "jisoo",
+        "answer1": 9,
+        "answer2": 8,
+        "answer3": 18,
+        "answer4": 14,
+        "answer5": 14
+    },
+    {
+        "question": "Tupai darat yang hidup di dalam rumah kaca di bawah air",
+        "password": "sandy",
+        "answer1": 18,
+        "answer2": 0,
+        "answer3": 13,
+        "answer4": 3,
+        "answer5": 24
+    },
+    {
+        "question": "Paus betina yang memiliki ayah kepiting",
+        "password": "pearl",
+        "answer1": 15,
+        "answer2": 4,
+        "answer3": 0,
+        "answer4": 17,
+        "answer5": 11
+    },
+    {
+        "question": "Tokoh lobster di Spongebob",
+        "password": "larry",
+        "answer1": 11,
+        "answer2": 0,
+        "answer3": 17,
+        "answer4": 17,
+        "answer5": 24
+    },
+    {
+        "question": "Salah satu jenis huruf jepang yang digunakan menggambarkan makna ujaran",
+        "password": "kanji",
+        "answer1": 10,
+        "answer2": 0,
+        "answer3": 13,
+        "answer4": 9,
+        "answer5": 8
+    },
+    {
+        "question": "Produsen Otomotif Asal Jepang",
+        "password": "honda",
+        "answer1": 7,
+        "answer2": 14,
+        "answer3": 13,
+        "answer4": 3,
+        "answer5": 0
+    },
+    {
+        "question": "Satuan Internasional yang Dilambangkan dengan kg",
+        "password": "massa",
+        "answer1": 12,
+        "answer2": 0,
+        "answer3": 18,
+        "answer4": 18,
+        "answer5": 0
+    },
+    {
+        "question": "'J' Dalam Fisika Dibaca",
+        "password": "joule",
+        "answer1": 9,
+        "answer2": 14,
+        "answer3": 20,
+        "answer4": 11,
+        "answer5": 4
+    },
+    {
+        "question": "Daerah Dengan Plat Nomor Kendaraan BH",
+        "password": "jambi",
+        "answer1": 9,
+        "answer2": 0,
+        "answer3": 12,
+        "answer4": 1,
+        "answer5": 8
+    },
+    {
+        "question": "Ibukota Jepang",
+        "password": "tokyo",
+        "answer1": 19,
+        "answer2": 14,
+        "answer3": 10,
+        "answer4": 24,
+        "answer5": 14
+    },
+    {
+        "question": "Band dengan Vokalis Freddie Mercury",
+        "password": "queen",
+        "answer1": 16,
+        "answer2": 20,
+        "answer3": 4,
+        "answer4": 4,
+        "answer5": 13
+    },
+    {
+        "question": "Makanan Manis dari Jogja",
+        "password": "gudeg",
+        "answer1": 6,
+        "answer2": 20,
+        "answer3": 3,
+        "answer4": 4,
+        "answer5": 6
+    },
+    {
+        "question": "Mie Khas Jepang",
+        "password": "ramen",
+        "answer1": 17,
+        "answer2": 0,
+        "answer3": 12,
+        "answer4": 4,
+        "answer5": 13
+    },
+    {
+        "question": "Chelonioidea Adalah Nama Latin Dari Hewan",
+        "password": "penyu",
+        "answer1": 15,
+        "answer2": 4,
+        "answer3": 13,
+        "answer4": 24,
+        "answer5": 20
+    },
+    {
+        "question": "Tempat Peletakan Daun Pintu dan Jendela",
+        "password": "kusen",
+        "answer1": 10,
+        "answer2": 20,
+        "answer3": 18,
+        "answer4": 4,
+        "answer5": 13
+    },
+    {
+        "question": "Ujung Tali Sepatu Disebut",
+        "password": "aglet",
+        "answer1": 0,
+        "answer2": 6,
+        "answer3": 11,
+        "answer4": 4,
+        "answer5": 19
+    },
+    {
+        "question": "Salah Satu Kingdom Dalam Taksonomi Mahluk Hidup",
+        "password": "fungi",
+        "answer1": 5,
+        "answer2": 20,
+        "answer3": 13,
+        "answer4": 6,
+        "answer5": 8
+    },
+    {
+        "question": "Alat Kelamin Betina Pada Tumbuhan Bunga",
+        "password": "putik",
+        "answer1": 15,
+        "answer2": 20,
+        "answer3": 19,
+        "answer4": 8,
+        "answer5": 10
+    },
+    {
+        "question": "Angin Pertanda Pergantian Musim",
+        "password": "muson",
+        "answer1": 12,
+        "answer2": 20,
+        "answer3": 18,
+        "answer4": 14,
+        "answer5": 13
+    },
+    {
+        "question": "Tanah Hasil Pelapukan Unsur Hara",
+        "password": "humus",
+        "answer1": 7,
+        "answer2": 20,
+        "answer3": 12,
+        "answer4": 20,
+        "answer5": 18
+    },
+    {
+        "question": "Warna Dengan Spektrum Gelombang Terpanjang",
+        "password": "merah",
+        "answer1": 12,
+        "answer2": 4,
+        "answer3": 17,
+        "answer4": 0,
+        "answer5": 7
+    },
+    {
+        "question": "Perusahaan Milik Elon Musk",
+        "password": "tesla",
+        "answer1": 19,
+        "answer2": 4,
+        "answer3": 18,
+        "answer4": 11,
+        "answer5": 0
+    },
+    {
+        "question": "Layanan Distribusi Digital Permainan Video Milik Valve",
+        "password": "steam",
+        "answer1": 18,
+        "answer2": 19,
+        "answer3": 4,
+        "answer4": 0,
+        "answer5": 12
+    },
+    {
+        "question": "Karakter Landak Yang Bisa Berlali Cepat Milik Sega",
+        "password": "sonic",
+        "answer1": 18,
+        "answer2": 14,
+        "answer3": 13,
+        "answer4": 8,
+        "answer5": 2
+    },
+    {
+        "question": "Magma Yang Sudah Keluar Dari Perut Bumi Disebut",
+        "password": "lahar",
+        "answer1": 11,
+        "answer2": 0,
+        "answer3": 7,
+        "answer4": 0,
+        "answer5": 17
+    },
+    {
+        "question": "Satu-Satunya Negara Yang Benderanya Tidak Berbentuk Segi Empat",
+        "password": "nepal",
+        "answer1": 13,
+        "answer2": 4,
+        "answer3": 15,
+        "answer4": 0,
+        "answer5": 11
+    },
+    {
+        "question": "Pegunungan Terpanjang di Dunia",
+        "password": "andes",
+        "answer1": 0,
+        "answer2": 13,
+        "answer3": 3,
+        "answer4": 4,
+        "answer5": 18
+    }
+]
