@@ -22,7 +22,7 @@ I'd really appreciate it if someone gave a <b>fork</b> or a <b>star</b> to my re
 
 <br/>
 For business inquiries please email me at <a href="mailto:mapanduprayoga@gmail.com">mapanduprayoga@gmail.com</a><br/><br/>
-Or you can take a look at the projects I've made here : <a href="arif-pandu.github.io">arif-pandu.github.io</a>
+Or you can take a look at the projects I've made here : <a href="https://arif-pandu.github.io">arif-pandu.github.io</a>
 
 
 
