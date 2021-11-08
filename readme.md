@@ -27,6 +27,7 @@ Or you can take a look at the projects I've made here : <a href="https://arif-pa
 <br/>
 For live demo, open <a href="https://arif-pandu.github.io/DaVinci-Cryptex-Game">HERE</a>
 <br/>
+<br/>
 <a href="https://github.com/arif-pandu/DaVinci-Cryptex-Game">
    <img src="skrinsut-1.png" alt="Logo" width="200">
 </a>
